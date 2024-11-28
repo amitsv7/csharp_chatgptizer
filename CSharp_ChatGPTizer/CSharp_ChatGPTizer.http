@@ -1,6 +1,6 @@
 @CSharp_ChatGPTizer_HostAddress = http://localhost:5280
 
-GET {{CSharp_ChatGPTizer_HostAddress}}/weatherforecast/
+GET {{CSharp_ChatGPTizer_HostAddress}}/api/Data/GetData/
 Accept: application/json
 
 ###
